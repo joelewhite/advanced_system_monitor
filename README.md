@@ -2,6 +2,7 @@
 
 A feature-rich Bash script to monitor Linux systems, generate reports, and manage scheduled runs using cron.
 
+v2 enables more features
 ---
 
 ## 📌 Features
