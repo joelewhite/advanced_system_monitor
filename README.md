@@ -69,3 +69,9 @@ Use `--export <path>` to generate reports:
 ./system_monitor.sh --list-jobs
 ./system_monitor.sh --schedule-remove
 ```
+
+---
+
+## 📄 License
+
+MIT (c) 2025 Joel E. White
